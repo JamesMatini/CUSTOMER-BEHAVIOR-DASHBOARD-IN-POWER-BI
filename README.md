@@ -4,6 +4,9 @@ Analyze a retail company's consumer behavior to uncover trends, purchase drivers
 # 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
 This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
+# Dashboard 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ac05308b-ee45-4af1-88a2-a342f4cf971c" />
+
 This project is perfect for:
 - 📊 Data Analyst aspirants who want to build a strong **Portfolio Project** for interviews and LinkedIn
 - 📚 Anyone learning Python, SQL, and Power BI
